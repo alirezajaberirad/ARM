@@ -1,0 +1,5 @@
+Warning (10273): Verilog HDL warning at SRAM_Controller.v(52): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at SRAM_Controller.v(53): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at SRAM.v(17): extended using "x" or "z"
+Warning (10268): Verilog HDL information at ID_Stage_Reg.v(28): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at controler.v(28): extended using "x" or "z"

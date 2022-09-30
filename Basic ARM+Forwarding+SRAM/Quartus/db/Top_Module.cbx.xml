@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Top_Module">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Top_Module|ID_Stage:idstage|RegisterFile:R1|altsyncram:register_rtl_0" CBX_FILE_NAME="altsyncram_o8i1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
